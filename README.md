@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiran Talekar</h1>
+<div align="center"> <img src="https://camo.githubusercontent.com/7e5e39b592d68715da3f53bf79e626da7f5a88c7fae09ef87ca1efe4d45054a4/68747470733a2f2f67617065722e696f2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f6d65726e2d737461636b2e77656270"> </div>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400px" src="https://imgs.search.brave.com/WVq9fsl-IQF3p1ezdJmMdaqa39WMhnm9_jgAPpIK720/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg
-">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantalekar07&label=Profile%20views&color=0e75b6&style=flat" alt="kirantalekar07" /> </p>
 
 - 🌱 I’m currently learning **Java Fullstack Course.**
